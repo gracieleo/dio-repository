@@ -1,4 +1,4 @@
-package metodos;
+package metodos.aula1;
 
 public class Main {
 
