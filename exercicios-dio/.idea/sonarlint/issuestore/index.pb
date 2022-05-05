@@ -1,0 +1,3 @@
+
+b
+2src/variaveisTiposDadosEOperadores/Conversoes.java,e\1\e1bd48c49303451ff002469ae9e33b345f2306ca
