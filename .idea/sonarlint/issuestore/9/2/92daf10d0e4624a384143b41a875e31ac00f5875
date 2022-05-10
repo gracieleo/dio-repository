@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ´ò
+
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(¨ÓÎêüÿÿÿÿ
+{
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(…àÎ
+
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(š™Ïúùÿÿÿÿ
+
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ç×ø÷ıÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¥•îê
+M	java:S106("9Replace this use of System.out or System.err by a logger.(Éï9
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒÅ”®øÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¸£ÀÈıÿÿÿÿ

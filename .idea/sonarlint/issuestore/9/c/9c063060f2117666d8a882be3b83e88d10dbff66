@@ -1,0 +1,8 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "idade".(Öğ–ûÿÿÿÿ8Ôè÷ùŠ0
+G
+java:S1481"*Remove this unused "idade" local variable.(«åÙå8Øè÷ùŠ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾—Ò·ùÿÿÿÿ8Ûè÷ùŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëë÷”8İè÷ùŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ›Îè8Şè÷ùŠ0

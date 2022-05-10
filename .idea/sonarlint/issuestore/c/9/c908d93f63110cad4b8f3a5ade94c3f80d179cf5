@@ -1,0 +1,31 @@
+
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¾‚İ8ÓäòÊ‰0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(í·ØĞ8×äòÊ‰0
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(§Ôã8ØäòÊ‰0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(à®€ûúÿÿÿÿ8ÚäòÊ‰0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(÷ÿ¦øûÿÿÿÿ8ÜäòÊ‰0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(™¾ö´ÿÿÿÿÿ8çäòÊ‰0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒ’ğüÿÿÿÿ8èäòÊ‰0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Öÿ‚Êşÿÿÿÿ8êäòÊ‰0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(²ìÅŸÿÿÿÿÿ8ëäòÊ‰0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(–¨ÿ8ìäòÊ‰0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(èÚÓ8íäòÊ‰0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(‘×¶¦8îäòÊ‰0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(„¡Ò•ıÿÿÿÿ8ïäòÊ‰0
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(¶òÎ8ğäòÊ‰0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(³½êıøÿÿÿÿ8ñäòÊ‰0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(«¿Àùÿÿÿÿ8òäòÊ‰0
+X	java:S1255"<This block of commented-out lines of code should be removed.(Ä³‘‰8øäòÊ‰0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(¯»½úÿÿÿÿ8ùäòÊ‰0
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(ôğO8ûäòÊ‰0
+X	java:S125<"<This block of commented-out lines of code should be removed.(Ôş·•8è Ë‰0
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(¾ü¢‡8ıäòÊ‰0
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(´ê“…ùÿÿÿÿ8şäòÊ‰0
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Õ–ôÁ8€åòÊ‰0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(¥®Ë—üÿÿÿÿ8åòÊ‰0
+^
+java:S49732"<Strings and Boxed types should be compared using "equals()".(„¡Ò•ıÿÿÿÿ8¤åòÊ‰0
+Y
+java:S49733"<Strings and Boxed types should be compared using "equals()".(¶òÎ8¥åòÊ‰0
+^
+java:S49734"<Strings and Boxed types should be compared using "equals()".(³½êıøÿÿÿÿ8¥åòÊ‰0
