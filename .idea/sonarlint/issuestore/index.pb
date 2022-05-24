@@ -41,3 +41,11 @@ X
 0exercicios-dio/src/arrays/NumerosAleatorios.java,f\f\ffa4ebeb13c223c347f9a6b91c287e732dd3fec8
 d
 4exercicios-dio/src/arrays/ArrayMultidimensional.java,f\4\f40b1d9d1b52f50e8b47103d69ce07da20f0a3e9
+e
+5exercicios-dio/src/desafios/MultiplicacaoSimples.java,a\8\a8813db58f026668d056dce5b496655a5d0c62e2
+_
+/exercicios-dio/src/desafios/CoxinhaDeBueno.java,4\e\4e8b723173fef0b59c69d2ddc7867b7bab5bb700
+\
+,exercicios-dio/src/desafios/AlbumDaCopa.java,d\f\df271d3cc422ebe42902d20cf5a403af54c3cbdf
+b
+2exercicios-dio/src/desafios/DegustacaoDeVinho.java,f\6\f6f9e5bbf36346ac7c690af0338a4e63c76b2600
