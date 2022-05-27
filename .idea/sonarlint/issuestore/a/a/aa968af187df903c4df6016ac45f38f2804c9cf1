@@ -1,0 +1,10 @@
+
+[
+java:S3400"9Remove this method and declare a constant for this value.(¯©³–ÿÿÿÿÿ8Î×À­0
+F
+java:S1172"*Remove this unused method parameter "cep".(â‚á8Ï×À­0
+[
+java:S3400"9Remove this method and declare a constant for this value.(ìÃñ”úÿÿÿÿ8  Ã­0
+G
+java:S1172"*Remove this unused method parameter "cep".(µÁÔ°8¡ Ã­0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õöë†

@@ -1,0 +1,12 @@
+
+p
+java:S3008"URename this field "SEQUENCIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞËçßúÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ÇŸğã
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(è­²¢ûÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(Õ¬¦Şÿÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¹×è½øÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(À¦§‚ÿÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8îÃë‹0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¾
